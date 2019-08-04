@@ -15,7 +15,7 @@ h1, h2 {
 
 .containter {
 	width: 100%;
-	max-width: 950px;
+	max-width: 750px;
 	margin: 0 auto;
 }
 
@@ -28,7 +28,7 @@ h1, h2 {
 	left: 0;
 	bottom: 0;
   	position: absolute;
-    background: #DBA5DF;
+    background: rgb(73, 106, 133);
     text-align: center;
     font-size: 30px;
     color: #4A5BD26;
